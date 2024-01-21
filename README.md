@@ -11,29 +11,29 @@ The Restaurant Management System integrates a Tkinter-based GUI interface for bo
 
 ### Customer Interaction:
 
-#### Login Page: Ensures secure access for customers.
-#### Sign-up Page: Facilitates new customer registrations.
+#### 1. Login Page: Ensures secure access for customers.
+#### 2. Sign-up Page: Facilitates new customer registrations.
 
 ### Admin Staff Interaction:
 
-#### Login Page: Secure entry point for administrative staff.
-#### Sign-up Page: Registration process for new admin staff.
+#### 1. Login Page: Secure entry point for administrative staff.
+#### 2. Sign-up Page: Registration process for new admin staff.
 
 ## Functionality:
 
 ### Customer Interaction:
 
-#### Access customer details.
-#### Place and track orders.
-#### View payment history.
+#### 1. Access customer details.
+#### 2. Place and track orders.
+#### 3. View payment history.
 
 ### Admin Staff Interaction:
 
-#### Manage food items and drinks.
-#### Track and update employee details.
-#### Monitor chef specialties in specific cuisines.
-#### Handle customer details.
-#### Manage delivery records.
+#### 1. Manage food items and drinks.
+#### 2. Track and update employee details.
+#### 3. Monitor chef specialties in specific cuisines.
+#### 4. Handle customer details.
+#### 5. Manage delivery records.
 
 ## Implementation:
 
